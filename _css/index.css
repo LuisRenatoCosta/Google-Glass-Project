@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+video#filme-corpo {
+    display: block;
+    position: relative;
+    left: auto;
+    top: auto;
+    width: 500px;
+    margin: 5px;
+}
+video#filme-lateral {
+    display: block;
+    position: relative;
+    left: auto;
+    top: auto;
+    width: 350px;
+}
